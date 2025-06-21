@@ -1,4 +1,4 @@
--- Translator: ZamestoTV версия аддона 5.2.8
+-- Translator: ZamestoTV версия аддона 5.2.10
 local _,rematch = ...
 local L = rematch.localization
 
