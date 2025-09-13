@@ -1,4 +1,4 @@
--- Translator: ZamestoTV версия аддона 5.2.10
+-- Translator: ZamestoTV версия аддона 5.2.11
 local _,rematch = ...
 local L = rematch.localization
 
@@ -986,3 +986,4 @@ L["Top Center"] = "Сверху по центру"
 L["Top Left"] = "Сверху слева"
 L["None"] = "Нет"
 end
+
